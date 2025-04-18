@@ -29,7 +29,7 @@ This project is executed through the **main script** (`main.py`). The workflow i
 
 ### **3. `classification.py` (Machine Learning Models & Training/Testing)**
 
-- **Supported ML algorithms**: KNN, Decision Tree, Random Forest, XGBoost, LightGBM, SVM
+- Supported ML algorithms: **KNN, Decision Tree, Random Forest, XGBoost, LightGBM, SVM**
 - For performance evaluation, **5-Fold Cross-Validation** is applied, and the model's performance is assessed using **accuracy, precision, recall, and F1-score** metrics.
 
 
