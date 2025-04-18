@@ -35,7 +35,7 @@ This project is executed through the **main script** (`main.py`). The workflow i
 
 ## Project Structure
 ```
-TSN-LDoS-IDS/
+tsn-ldos-ids/
 │
 ├── output/
 │   └── results.txt           # Performance results (created/updated by main.py)
@@ -87,7 +87,7 @@ pip install numpy scikit-learn imbalanced-learn xgboost lightgbm
 4. Navigate to the src/ folder
 
 ```bash
-cd TSN-IDS/src
+cd tsn-ldos-ids/src
 ```
 5. Run the main script:
 
