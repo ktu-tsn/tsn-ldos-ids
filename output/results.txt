@@ -1,0 +1,1363 @@
+ns.csv
+Number of Zeros:429960 - Number Of Ones:0 - Total Number:429960
+---------------------------------------
+
+as1.csv
+Number of Zeros:416636 - Number Of Ones:14211 - Total Number:430847
+---------------------------------------
+as1.csv
+Model: KNeighborsClassifier()
+Avg. Accuracy: 0.9999118009584598
+Avg. Precision: 0.9974085757391098
+Avg. Recall: 0.9999295278365047
+Avg. F1: 0.9986673033220356
+Avg. Training Time: 0.4283449000009568
+Avg. Test Time: 4.594297059999372
+---------------------------------------
+as1.csv
+Model: DecisionTreeClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.12921121999970636
+Avg. Test Time: 0.003975919999356847
+---------------------------------------
+as1.csv
+Model: RandomForestClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 5.998618540003372
+Avg. Test Time: 0.2938779600022826
+---------------------------------------
+as1.csv
+Model: XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=None, device=None, early_stopping_rounds=None,
+              enable_categorical=False, eval_metric=None, feature_types=None,
+              gamma=None, grow_policy=None, importance_type=None,
+              interaction_constraints=None, learning_rate=None, max_bin=None,
+              max_cat_threshold=None, max_cat_to_onehot=None,
+              max_delta_step=None, max_depth=None, max_leaves=None,
+              min_child_weight=None, missing=nan, monotone_constraints=None,
+              multi_strategy=None, n_estimators=None, n_jobs=None, num_class=2,
+              num_parallel_tree=None, ...)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.5495752599992556
+Avg. Test Time: 0.00460395999980392
+---------------------------------------
+as1.csv
+Model: LGBMClassifier(num_leaves=15, random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.3157026399974711
+Avg. Test Time: 0.01526682000112487
+---------------------------------------
+as1.csv
+Model: SVC()
+Avg. Accuracy: 0.9993756438906812
+Avg. Precision: 0.9814443759023647
+Avg. Recall: 1.0
+Avg. F1: 0.9906343863065393
+Avg. Training Time: 56.41454777999752
+Avg. Test Time: 2.595882800000254
+---------------------------------------
+
+as10.csv
+Number of Zeros:429825 - Number Of Ones:138 - Total Number:429963
+---------------------------------------
+as10.csv
+Model: KNeighborsClassifier()
+Avg. Accuracy: 0.9999279002697927
+Avg. Precision: 0.9620823798627001
+Avg. Recall: 0.8112023242458024
+Avg. F1: 0.8778336228875702
+Avg. Training Time: 0.43590277999901444
+Avg. Test Time: 3.803518839999742
+---------------------------------------
+as10.csv
+Model: DecisionTreeClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.08832783999969251
+Avg. Test Time: 0.00263587999943411
+---------------------------------------
+as10.csv
+Model: RandomForestClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 4.14706637999916
+Avg. Test Time: 0.16836592000327072
+---------------------------------------
+as10.csv
+Model: XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=None, device=None, early_stopping_rounds=None,
+              enable_categorical=False, eval_metric=None, feature_types=None,
+              gamma=None, grow_policy=None, importance_type=None,
+              interaction_constraints=None, learning_rate=None, max_bin=None,
+              max_cat_threshold=None, max_cat_to_onehot=None,
+              max_delta_step=None, max_depth=None, max_leaves=None,
+              min_child_weight=None, missing=nan, monotone_constraints=None,
+              multi_strategy=None, n_estimators=None, n_jobs=None, num_class=2,
+              num_parallel_tree=None, ...)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.4853194600029383
+Avg. Test Time: 0.004416039999341592
+---------------------------------------
+as10.csv
+Model: LGBMClassifier(num_leaves=15, random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.11968023999943397
+Avg. Test Time: 0.004376899999624584
+---------------------------------------
+as10.csv
+Model: SVC()
+Avg. Accuracy: 0.9996790399106894
+Avg. Precision: 0.0
+Avg. Recall: 0.0
+Avg. F1: 0.0
+Avg. Training Time: 3.0590706000002683
+Avg. Test Time: 1.309165979998943
+---------------------------------------
+
+as11.csv
+Number of Zeros:415278 - Number Of Ones:15156 - Total Number:430434
+---------------------------------------
+as11.csv
+Model: KNeighborsClassifier()
+Avg. Accuracy: 0.999839695566355
+Avg. Precision: 0.9960014923984601
+Avg. Recall: 0.9994686462609774
+Avg. F1: 0.9977318221409721
+Avg. Training Time: 0.4249923600014881
+Avg. Test Time: 3.8364786999984064
+---------------------------------------
+as11.csv
+Model: DecisionTreeClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.09047774000064238
+Avg. Test Time: 0.002522759999556001
+---------------------------------------
+as11.csv
+Model: RandomForestClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 4.051816360000521
+Avg. Test Time: 0.1710758600005647
+---------------------------------------
+as11.csv
+Model: XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=None, device=None, early_stopping_rounds=None,
+              enable_categorical=False, eval_metric=None, feature_types=None,
+              gamma=None, grow_policy=None, importance_type=None,
+              interaction_constraints=None, learning_rate=None, max_bin=None,
+              max_cat_threshold=None, max_cat_to_onehot=None,
+              max_delta_step=None, max_depth=None, max_leaves=None,
+              min_child_weight=None, missing=nan, monotone_constraints=None,
+              multi_strategy=None, n_estimators=None, n_jobs=None, num_class=2,
+              num_parallel_tree=None, ...)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.5354259800005821
+Avg. Test Time: 0.005118900000525173
+---------------------------------------
+as11.csv
+Model: LGBMClassifier(num_leaves=15, random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.16300818000017897
+Avg. Test Time: 0.01074934000207577
+---------------------------------------
+as11.csv
+Model: SVC()
+Avg. Accuracy: 0.9965499697354521
+Avg. Precision: 0.9107599594565107
+Avg. Recall: 1.0
+Avg. F1: 0.9532898073200784
+Avg. Training Time: 450.79171043999816
+Avg. Test Time: 10.901523299999827
+---------------------------------------
+
+as12.csv
+Number of Zeros:415948 - Number Of Ones:14469 - Total Number:430417
+---------------------------------------
+as12.csv
+Model: KNeighborsClassifier()
+Avg. Accuracy: 0.9998303958136466
+Avg. Precision: 0.9968906627746689
+Avg. Recall: 0.9980613858182299
+Avg. F1: 0.9974755467377088
+Avg. Training Time: 0.4315267199999653
+Avg. Test Time: 3.8013077799987514
+---------------------------------------
+as12.csv
+Model: DecisionTreeClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.08721496000071056
+Avg. Test Time: 0.0024867400017683393
+---------------------------------------
+as12.csv
+Model: RandomForestClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 4.002605719998246
+Avg. Test Time: 0.16372991999960504
+---------------------------------------
+as12.csv
+Model: XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=None, device=None, early_stopping_rounds=None,
+              enable_categorical=False, eval_metric=None, feature_types=None,
+              gamma=None, grow_policy=None, importance_type=None,
+              interaction_constraints=None, learning_rate=None, max_bin=None,
+              max_cat_threshold=None, max_cat_to_onehot=None,
+              max_delta_step=None, max_depth=None, max_leaves=None,
+              min_child_weight=None, missing=nan, monotone_constraints=None,
+              multi_strategy=None, n_estimators=None, n_jobs=None, num_class=2,
+              num_parallel_tree=None, ...)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.46457896000065374
+Avg. Test Time: 0.0035196599987102673
+---------------------------------------
+as12.csv
+Model: LGBMClassifier(num_leaves=15, random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.15417402000020958
+Avg. Test Time: 0.010143399998196401
+---------------------------------------
+as12.csv
+Model: SVC()
+Avg. Accuracy: 0.9971353161116028
+Avg. Precision: 0.9623323902123655
+Avg. Recall: 0.9520730678049233
+Avg. F1: 0.9571675906858863
+Avg. Training Time: 77.90409747999801
+Avg. Test Time: 5.968864120000217
+---------------------------------------
+
+as13.csv
+Number of Zeros:427942 - Number Of Ones:2073 - Total Number:430015
+---------------------------------------
+as13.csv
+Model: KNeighborsClassifier()
+Avg. Accuracy: 0.9999697683071673
+Avg. Precision: 0.9945836568771107
+Avg. Recall: 0.9990423990423991
+Avg. F1: 0.9968007283815551
+Avg. Training Time: 0.4199085799991735
+Avg. Test Time: 3.6951904599991394
+---------------------------------------
+as13.csv
+Model: DecisionTreeClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.08074200000119162
+Avg. Test Time: 0.0022758000006433575
+---------------------------------------
+as13.csv
+Model: RandomForestClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 3.851114440000674
+Avg. Test Time: 0.16011625999963144
+---------------------------------------
+as13.csv
+Model: XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=None, device=None, early_stopping_rounds=None,
+              enable_categorical=False, eval_metric=None, feature_types=None,
+              gamma=None, grow_policy=None, importance_type=None,
+              interaction_constraints=None, learning_rate=None, max_bin=None,
+              max_cat_threshold=None, max_cat_to_onehot=None,
+              max_delta_step=None, max_depth=None, max_leaves=None,
+              min_child_weight=None, missing=nan, monotone_constraints=None,
+              multi_strategy=None, n_estimators=None, n_jobs=None, num_class=2,
+              num_parallel_tree=None, ...)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.39882357999886153
+Avg. Test Time: 0.0031055599989485926
+---------------------------------------
+as13.csv
+Model: LGBMClassifier(num_leaves=15, random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.154302640001697
+Avg. Test Time: 0.011994380000396631
+---------------------------------------
+as13.csv
+Model: SVC()
+Avg. Accuracy: 0.9994255972953772
+Avg. Precision: 0.8935191347234369
+Avg. Recall: 1.0
+Avg. F1: 0.9437608597505035
+Avg. Training Time: 8.893681420003123
+Avg. Test Time: 3.782866020001529
+---------------------------------------
+
+as14.csv
+Number of Zeros:428351 - Number Of Ones:1656 - Total Number:430007
+---------------------------------------
+as14.csv
+Model: KNeighborsClassifier()
+Avg. Accuracy: 0.99984418764195
+Avg. Precision: 0.9732252005295543
+Avg. Recall: 0.9867532793050726
+Avg. F1: 0.9798711032418017
+Avg. Training Time: 0.42166434000100705
+Avg. Test Time: 3.715467980001995
+---------------------------------------
+as14.csv
+Model: DecisionTreeClassifier(random_state=42)
+Avg. Accuracy: 0.9999790699026484
+Avg. Precision: 0.9964498012144795
+Avg. Recall: 0.9982438192668373
+Avg. F1: 0.9973454650955336
+Avg. Training Time: 0.08656125999987126
+Avg. Test Time: 0.002370379999047145
+---------------------------------------
+as14.csv
+Model: RandomForestClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 3.859921499999473
+Avg. Test Time: 0.16261585999891395
+---------------------------------------
+as14.csv
+Model: XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=None, device=None, early_stopping_rounds=None,
+              enable_categorical=False, eval_metric=None, feature_types=None,
+              gamma=None, grow_policy=None, importance_type=None,
+              interaction_constraints=None, learning_rate=None, max_bin=None,
+              max_cat_threshold=None, max_cat_to_onehot=None,
+              max_delta_step=None, max_depth=None, max_leaves=None,
+              min_child_weight=None, missing=nan, monotone_constraints=None,
+              multi_strategy=None, n_estimators=None, n_jobs=None, num_class=2,
+              num_parallel_tree=None, ...)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.457687380000425
+Avg. Test Time: 0.0039133600002969615
+---------------------------------------
+as14.csv
+Model: LGBMClassifier(num_leaves=15, random_state=42)
+Avg. Accuracy: 0.9986628062464391
+Avg. Precision: 0.813407979303933
+Avg. Recall: 0.8121951219512195
+Avg. F1: 0.8127398803603331
+Avg. Training Time: 0.17239796000067145
+Avg. Test Time: 0.014283939999586437
+---------------------------------------
+as14.csv
+Model: SVC()
+Avg. Accuracy: 0.9982953649808831
+Avg. Precision: 0.7530111986978717
+Avg. Recall: 0.8329306371896747
+Avg. F1: 0.7902165153194152
+Avg. Training Time: 260.42150084000167
+Avg. Test Time: 5.268467499999678
+---------------------------------------
+
+as15.csv
+Number of Zeros:429015 - Number Of Ones:969 - Total Number:429984
+---------------------------------------
+as15.csv
+Model: KNeighborsClassifier()
+Avg. Accuracy: 0.9999279037315997
+Avg. Precision: 0.9949254857574041
+Avg. Recall: 0.9732507145270454
+Avg. F1: 0.9839504103905881
+Avg. Training Time: 0.4277907799987588
+Avg. Test Time: 3.745300599998154
+---------------------------------------
+as15.csv
+Model: DecisionTreeClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.08240912000037497
+Avg. Test Time: 0.002459000000089873
+---------------------------------------
+as15.csv
+Model: RandomForestClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 3.762634140001319
+Avg. Test Time: 0.15982614000095055
+---------------------------------------
+as15.csv
+Model: XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=None, device=None, early_stopping_rounds=None,
+              enable_categorical=False, eval_metric=None, feature_types=None,
+              gamma=None, grow_policy=None, importance_type=None,
+              interaction_constraints=None, learning_rate=None, max_bin=None,
+              max_cat_threshold=None, max_cat_to_onehot=None,
+              max_delta_step=None, max_depth=None, max_leaves=None,
+              min_child_weight=None, missing=nan, monotone_constraints=None,
+              multi_strategy=None, n_estimators=None, n_jobs=None, num_class=2,
+              num_parallel_tree=None, ...)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.40388075999944706
+Avg. Test Time: 0.0034618799982126802
+---------------------------------------
+as15.csv
+Model: LGBMClassifier(num_leaves=15, random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.12093695999938063
+Avg. Test Time: 0.006027820000599604
+---------------------------------------
+as15.csv
+Model: SVC()
+Avg. Accuracy: 0.997746411380029
+Avg. Precision: 0.0
+Avg. Recall: 0.0
+Avg. F1: 0.0
+Avg. Training Time: 12.436835679999785
+Avg. Test Time: 5.051020259999495
+---------------------------------------
+
+as16.csv
+Number of Zeros:414598 - Number Of Ones:15849 - Total Number:430447
+---------------------------------------
+as16.csv
+Model: KNeighborsClassifier()
+Avg. Accuracy: 0.9998141454480264
+Avg. Precision: 0.9951602205225951
+Avg. Recall: 0.9998086099090762
+Avg. F1: 0.9974787181615741
+Avg. Training Time: 0.42305170000036013
+Avg. Test Time: 3.6883251400009613
+---------------------------------------
+as16.csv
+Model: DecisionTreeClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.08552368000237039
+Avg. Test Time: 0.0023949599999468774
+---------------------------------------
+as16.csv
+Model: RandomForestClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 3.942778059998818
+Avg. Test Time: 0.1676638799995999
+---------------------------------------
+as16.csv
+Model: XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=None, device=None, early_stopping_rounds=None,
+              enable_categorical=False, eval_metric=None, feature_types=None,
+              gamma=None, grow_policy=None, importance_type=None,
+              interaction_constraints=None, learning_rate=None, max_bin=None,
+              max_cat_threshold=None, max_cat_to_onehot=None,
+              max_delta_step=None, max_depth=None, max_leaves=None,
+              min_child_weight=None, missing=nan, monotone_constraints=None,
+              multi_strategy=None, n_estimators=None, n_jobs=None, num_class=2,
+              num_parallel_tree=None, ...)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.46738514000317083
+Avg. Test Time: 0.0036012199998367578
+---------------------------------------
+as16.csv
+Model: LGBMClassifier(num_leaves=15, random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.15552954000158933
+Avg. Test Time: 0.009904599998844788
+---------------------------------------
+as16.csv
+Model: SVC()
+Avg. Accuracy: 0.9981182219528824
+Avg. Precision: 0.9513672938675013
+Avg. Recall: 1.0
+Avg. F1: 0.9750770203571287
+Avg. Training Time: 480.0027986599991
+Avg. Test Time: 5.2005633399981885
+---------------------------------------
+
+as17.csv
+Number of Zeros:427669 - Number Of Ones:2349 - Total Number:430018
+---------------------------------------
+as17.csv
+Model: KNeighborsClassifier()
+Avg. Accuracy: 0.9999767449972674
+Avg. Precision: 0.9974289073350544
+Avg. Recall: 0.9982763649621731
+Avg. F1: 0.9978517365120668
+Avg. Training Time: 0.42339801999769405
+Avg. Test Time: 3.5881788400001824
+---------------------------------------
+as17.csv
+Model: DecisionTreeClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.08377973999886308
+Avg. Test Time: 0.002738799998769537
+---------------------------------------
+as17.csv
+Model: RandomForestClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 3.8574564799986546
+Avg. Test Time: 0.16218148000043583
+---------------------------------------
+as17.csv
+Model: XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=None, device=None, early_stopping_rounds=None,
+              enable_categorical=False, eval_metric=None, feature_types=None,
+              gamma=None, grow_policy=None, importance_type=None,
+              interaction_constraints=None, learning_rate=None, max_bin=None,
+              max_cat_threshold=None, max_cat_to_onehot=None,
+              max_delta_step=None, max_depth=None, max_leaves=None,
+              min_child_weight=None, missing=nan, monotone_constraints=None,
+              multi_strategy=None, n_estimators=None, n_jobs=None, num_class=2,
+              num_parallel_tree=None, ...)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.44908505999919723
+Avg. Test Time: 0.004120820001116954
+---------------------------------------
+as17.csv
+Model: LGBMClassifier(num_leaves=15, random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.15133911999728297
+Avg. Test Time: 0.01213273999892408
+---------------------------------------
+as17.csv
+Model: SVC()
+Avg. Accuracy: 0.9994209504319617
+Avg. Precision: 0.9043469958317656
+Avg. Recall: 1.0
+Avg. F1: 0.9497224235983381
+Avg. Training Time: 8.171825280002668
+Avg. Test Time: 3.356402979999257
+---------------------------------------
+
+as18.csv
+Number of Zeros:428883 - Number Of Ones:1107 - Total Number:429990
+---------------------------------------
+as18.csv
+Model: KNeighborsClassifier()
+Avg. Accuracy: 0.9998232503513671
+Avg. Precision: 0.9807287685724082
+Avg. Recall: 0.9506032294218174
+Avg. F1: 0.9653658326354663
+Avg. Training Time: 0.4261363599987817
+Avg. Test Time: 3.8085897400029354
+---------------------------------------
+as18.csv
+Model: DecisionTreeClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.08548636000050465
+Avg. Test Time: 0.0025054999976418914
+---------------------------------------
+as18.csv
+Model: RandomForestClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 3.9664464999994378
+Avg. Test Time: 0.1654835199995432
+---------------------------------------
+as18.csv
+Model: XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=None, device=None, early_stopping_rounds=None,
+              enable_categorical=False, eval_metric=None, feature_types=None,
+              gamma=None, grow_policy=None, importance_type=None,
+              interaction_constraints=None, learning_rate=None, max_bin=None,
+              max_cat_threshold=None, max_cat_to_onehot=None,
+              max_delta_step=None, max_depth=None, max_leaves=None,
+              min_child_weight=None, missing=nan, monotone_constraints=None,
+              multi_strategy=None, n_estimators=None, n_jobs=None, num_class=2,
+              num_parallel_tree=None, ...)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.4654654000027222
+Avg. Test Time: 0.003832999999576714
+---------------------------------------
+as18.csv
+Model: LGBMClassifier(num_leaves=15, random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.15260785999853396
+Avg. Test Time: 0.011481980000098702
+---------------------------------------
+as18.csv
+Model: SVC()
+Avg. Accuracy: 0.9974255036481903
+Avg. Precision: 0.0
+Avg. Recall: 0.0
+Avg. F1: 0.0
+Avg. Training Time: 77.87985017999745
+Avg. Test Time: 5.822126180001942
+---------------------------------------
+
+as19.csv
+Number of Zeros:414331 - Number Of Ones:16125 - Total Number:430456
+---------------------------------------
+as19.csv
+Model: KNeighborsClassifier()
+Avg. Accuracy: 0.999895458889011
+Avg. Precision: 0.9974593826387654
+Avg. Recall: 0.9997507841633198
+Avg. F1: 0.9986036937897481
+Avg. Training Time: 0.4225047200001427
+Avg. Test Time: 3.8400851400001557
+---------------------------------------
+as19.csv
+Model: DecisionTreeClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.08308971999940695
+Avg. Test Time: 0.002341479998722207
+---------------------------------------
+as19.csv
+Model: RandomForestClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 3.8890179999987593
+Avg. Test Time: 0.16251500000071245
+---------------------------------------
+as19.csv
+Model: XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=None, device=None, early_stopping_rounds=None,
+              enable_categorical=False, eval_metric=None, feature_types=None,
+              gamma=None, grow_policy=None, importance_type=None,
+              interaction_constraints=None, learning_rate=None, max_bin=None,
+              max_cat_threshold=None, max_cat_to_onehot=None,
+              max_delta_step=None, max_depth=None, max_leaves=None,
+              min_child_weight=None, missing=nan, monotone_constraints=None,
+              multi_strategy=None, n_estimators=None, n_jobs=None, num_class=2,
+              num_parallel_tree=None, ...)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.4690599600013229
+Avg. Test Time: 0.00335645999875851
+---------------------------------------
+as19.csv
+Model: LGBMClassifier(num_leaves=15, random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.15613346000027378
+Avg. Test Time: 0.0101846800011117
+---------------------------------------
+as19.csv
+Model: SVC()
+Avg. Accuracy: 0.9987455074776767
+Avg. Precision: 0.9675885375901169
+Avg. Recall: 1.0
+Avg. F1: 0.9835255426854964
+Avg. Training Time: 398.5774586399988
+Avg. Test Time: 3.804652600000554
+---------------------------------------
+
+as2.csv
+Number of Zeros:416623 - Number Of Ones:13776 - Total Number:430399
+---------------------------------------
+as2.csv
+Model: KNeighborsClassifier()
+Avg. Accuracy: 0.9999326201970344
+Avg. Precision: 0.997899466311851
+Avg. Recall: 1.0
+Avg. F1: 0.998948507256667
+Avg. Training Time: 0.42525168000138364
+Avg. Test Time: 3.737047419999726
+---------------------------------------
+as2.csv
+Model: DecisionTreeClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.08166318000148749
+Avg. Test Time: 0.0024623200006317347
+---------------------------------------
+as2.csv
+Model: RandomForestClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 3.858250359998783
+Avg. Test Time: 0.162185739997949
+---------------------------------------
+as2.csv
+Model: XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=None, device=None, early_stopping_rounds=None,
+              enable_categorical=False, eval_metric=None, feature_types=None,
+              gamma=None, grow_policy=None, importance_type=None,
+              interaction_constraints=None, learning_rate=None, max_bin=None,
+              max_cat_threshold=None, max_cat_to_onehot=None,
+              max_delta_step=None, max_depth=None, max_leaves=None,
+              min_child_weight=None, missing=nan, monotone_constraints=None,
+              multi_strategy=None, n_estimators=None, n_jobs=None, num_class=2,
+              num_parallel_tree=None, ...)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.40431470000039554
+Avg. Test Time: 0.002942999998049345
+---------------------------------------
+as2.csv
+Model: LGBMClassifier(num_leaves=15, random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.148777359999076
+Avg. Test Time: 0.010291640002105851
+---------------------------------------
+as2.csv
+Model: SVC()
+Avg. Accuracy: 0.9993773175088881
+Avg. Precision: 0.9809280136768379
+Avg. Recall: 1.0
+Avg. F1: 0.9903716996174051
+Avg. Training Time: 30.63691272000142
+Avg. Test Time: 2.589433499998995
+---------------------------------------
+
+as20.csv
+Number of Zeros:413791 - Number Of Ones:16677 - Total Number:430468
+---------------------------------------
+as20.csv
+Model: KNeighborsClassifier()
+Avg. Accuracy: 0.9999930307922827
+Avg. Precision: 1.0
+Avg. Recall: 0.9998217113276304
+Avg. F1: 0.9999108424134194
+Avg. Training Time: 0.4322218600005726
+Avg. Test Time: 3.743431279998913
+---------------------------------------
+as20.csv
+Model: DecisionTreeClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.08592029999854275
+Avg. Test Time: 0.0024745599992456848
+---------------------------------------
+as20.csv
+Model: RandomForestClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 3.8192974400008097
+Avg. Test Time: 0.1604552999982843
+---------------------------------------
+as20.csv
+Model: XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=None, device=None, early_stopping_rounds=None,
+              enable_categorical=False, eval_metric=None, feature_types=None,
+              gamma=None, grow_policy=None, importance_type=None,
+              interaction_constraints=None, learning_rate=None, max_bin=None,
+              max_cat_threshold=None, max_cat_to_onehot=None,
+              max_delta_step=None, max_depth=None, max_leaves=None,
+              min_child_weight=None, missing=nan, monotone_constraints=None,
+              multi_strategy=None, n_estimators=None, n_jobs=None, num_class=2,
+              num_parallel_tree=None, ...)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.4355871200008551
+Avg. Test Time: 0.003361520000908058
+---------------------------------------
+as20.csv
+Model: LGBMClassifier(num_leaves=15, random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.15024183999776142
+Avg. Test Time: 0.012453120002464856
+---------------------------------------
+as20.csv
+Model: SVC()
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 2.1900147000007566
+Avg. Test Time: 0.6462667600018903
+---------------------------------------
+
+as3.csv
+Number of Zeros:428612 - Number Of Ones:1422 - Total Number:430034
+---------------------------------------
+as3.csv
+Model: KNeighborsClassifier()
+Avg. Accuracy: 0.999941864575155
+Avg. Precision: 0.9853078904228401
+Avg. Recall: 0.9971647882177079
+Avg. F1: 0.9911874878553378
+Avg. Training Time: 0.42315698000020346
+Avg. Test Time: 3.735620780001045
+---------------------------------------
+as3.csv
+Model: DecisionTreeClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.08140022000006866
+Avg. Test Time: 0.0024157799998647533
+---------------------------------------
+as3.csv
+Model: RandomForestClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 3.7817018000016107
+Avg. Test Time: 0.1591868200004683
+---------------------------------------
+as3.csv
+Model: XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=None, device=None, early_stopping_rounds=None,
+              enable_categorical=False, eval_metric=None, feature_types=None,
+              gamma=None, grow_policy=None, importance_type=None,
+              interaction_constraints=None, learning_rate=None, max_bin=None,
+              max_cat_threshold=None, max_cat_to_onehot=None,
+              max_delta_step=None, max_depth=None, max_leaves=None,
+              min_child_weight=None, missing=nan, monotone_constraints=None,
+              multi_strategy=None, n_estimators=None, n_jobs=None, num_class=2,
+              num_parallel_tree=None, ...)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.40457449999958045
+Avg. Test Time: 0.0027945199981331825
+---------------------------------------
+as3.csv
+Model: LGBMClassifier(num_leaves=15, random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.1628350800019689
+Avg. Test Time: 0.0137029600009555
+---------------------------------------
+as3.csv
+Model: SVC()
+Avg. Accuracy: 0.9986675380946963
+Avg. Precision: 0.7129908525179814
+Avg. Recall: 1.0
+Avg. F1: 0.8323671330586355
+Avg. Training Time: 166.0685936000009
+Avg. Test Time: 5.4140716599999
+---------------------------------------
+
+as4.csv
+Number of Zeros:428614 - Number Of Ones:1380 - Total Number:429994
+---------------------------------------
+as4.csv
+Model: KNeighborsClassifier()
+Avg. Accuracy: 0.9999209285829818
+Avg. Precision: 0.9814821121794699
+Avg. Recall: 0.9940657003625653
+Avg. F1: 0.9877099659324596
+Avg. Training Time: 0.41511611999885645
+Avg. Test Time: 3.735268639998685
+---------------------------------------
+as4.csv
+Model: DecisionTreeClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.0818883799991454
+Avg. Test Time: 0.002347719999670517
+---------------------------------------
+as4.csv
+Model: RandomForestClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 4.246659439998621
+Avg. Test Time: 0.16563521999923977
+---------------------------------------
+as4.csv
+Model: XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=None, device=None, early_stopping_rounds=None,
+              enable_categorical=False, eval_metric=None, feature_types=None,
+              gamma=None, grow_policy=None, importance_type=None,
+              interaction_constraints=None, learning_rate=None, max_bin=None,
+              max_cat_threshold=None, max_cat_to_onehot=None,
+              max_delta_step=None, max_depth=None, max_leaves=None,
+              min_child_weight=None, missing=nan, monotone_constraints=None,
+              multi_strategy=None, n_estimators=None, n_jobs=None, num_class=2,
+              num_parallel_tree=None, ...)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.40796140000165904
+Avg. Test Time: 0.003314499999396503
+---------------------------------------
+as4.csv
+Model: LGBMClassifier(num_leaves=15, random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.16903831999952673
+Avg. Test Time: 0.014135980000719427
+---------------------------------------
+as4.csv
+Model: SVC()
+Avg. Accuracy: 0.997965074390652
+Avg. Precision: 0.6676017168300632
+Avg. Recall: 0.7267318058782739
+Avg. F1: 0.6958537352322983
+Avg. Training Time: 237.0802173799995
+Avg. Test Time: 7.48663086000015
+---------------------------------------
+
+as5.csv
+Number of Zeros:429285 - Number Of Ones:711 - Total Number:429996
+---------------------------------------
+as5.csv
+Model: KNeighborsClassifier()
+Avg. Accuracy: 0.9998883704434556
+Avg. Precision: 0.9733574813751347
+Avg. Recall: 0.9589878517450983
+Avg. F1: 0.9660509568103384
+Avg. Training Time: 0.4273720000011963
+Avg. Test Time: 3.746430620003957
+---------------------------------------
+as5.csv
+Model: DecisionTreeClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.08163633999793092
+Avg. Test Time: 0.00235170000087237
+---------------------------------------
+as5.csv
+Model: RandomForestClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 3.8081029799970567
+Avg. Test Time: 0.15938224000128684
+---------------------------------------
+as5.csv
+Model: XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=None, device=None, early_stopping_rounds=None,
+              enable_categorical=False, eval_metric=None, feature_types=None,
+              gamma=None, grow_policy=None, importance_type=None,
+              interaction_constraints=None, learning_rate=None, max_bin=None,
+              max_cat_threshold=None, max_cat_to_onehot=None,
+              max_delta_step=None, max_depth=None, max_leaves=None,
+              min_child_weight=None, missing=nan, monotone_constraints=None,
+              multi_strategy=None, n_estimators=None, n_jobs=None, num_class=2,
+              num_parallel_tree=None, ...)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.46379810000071303
+Avg. Test Time: 0.004119000000355299
+---------------------------------------
+as5.csv
+Model: LGBMClassifier(num_leaves=15, random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.10792048000148498
+Avg. Test Time: 0.0036369399982504546
+---------------------------------------
+as5.csv
+Model: SVC()
+Avg. Accuracy: 0.998346484964363
+Avg. Precision: 0.0
+Avg. Recall: 0.0
+Avg. F1: 0.0
+Avg. Training Time: 9.316123280000465
+Avg. Test Time: 3.9974006200034635
+---------------------------------------
+
+as6.csv
+Number of Zeros:429285 - Number Of Ones:693 - Total Number:429978
+---------------------------------------
+as6.csv
+Model: KNeighborsClassifier()
+Avg. Accuracy: 0.9998883656026513
+Avg. Precision: 0.9677901093626708
+Avg. Recall: 0.9625045649740953
+Avg. F1: 0.9650869808876171
+Avg. Training Time: 0.4116736400013906
+Avg. Test Time: 3.5782586200002697
+---------------------------------------
+as6.csv
+Model: DecisionTreeClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.08223283999977866
+Avg. Test Time: 0.0024415999985649252
+---------------------------------------
+as6.csv
+Model: RandomForestClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 4.293082399999548
+Avg. Test Time: 0.16309203999990132
+---------------------------------------
+as6.csv
+Model: XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=None, device=None, early_stopping_rounds=None,
+              enable_categorical=False, eval_metric=None, feature_types=None,
+              gamma=None, grow_policy=None, importance_type=None,
+              interaction_constraints=None, learning_rate=None, max_bin=None,
+              max_cat_threshold=None, max_cat_to_onehot=None,
+              max_delta_step=None, max_depth=None, max_leaves=None,
+              min_child_weight=None, missing=nan, monotone_constraints=None,
+              multi_strategy=None, n_estimators=None, n_jobs=None, num_class=2,
+              num_parallel_tree=None, ...)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.4739902999994229
+Avg. Test Time: 0.0035600600007455797
+---------------------------------------
+as6.csv
+Model: LGBMClassifier(num_leaves=15, random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.10569749999849591
+Avg. Test Time: 0.0034401999990222977
+---------------------------------------
+as6.csv
+Model: SVC()
+Avg. Accuracy: 0.9983882783882784
+Avg. Precision: 0.0
+Avg. Recall: 0.0
+Avg. F1: 0.0
+Avg. Training Time: 7.48294290000049
+Avg. Test Time: 3.946823260000383
+---------------------------------------
+
+as7.csv
+Number of Zeros:429690 - Number Of Ones:285 - Total Number:429975
+---------------------------------------
+as7.csv
+Model: KNeighborsClassifier()
+Avg. Accuracy: 0.999925576500487
+Avg. Precision: 0.9515365719053165
+Avg. Recall: 0.9432202866320732
+Avg. F1: 0.9463734946849204
+Avg. Training Time: 0.4263371399996686
+Avg. Test Time: 3.7672693599990454
+---------------------------------------
+as7.csv
+Model: DecisionTreeClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.08588265999860596
+Avg. Test Time: 0.0025777599978027864
+---------------------------------------
+as7.csv
+Model: RandomForestClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 3.7968177800008562
+Avg. Test Time: 0.15897475999954622
+---------------------------------------
+as7.csv
+Model: XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=None, device=None, early_stopping_rounds=None,
+              enable_categorical=False, eval_metric=None, feature_types=None,
+              gamma=None, grow_policy=None, importance_type=None,
+              interaction_constraints=None, learning_rate=None, max_bin=None,
+              max_cat_threshold=None, max_cat_to_onehot=None,
+              max_delta_step=None, max_depth=None, max_leaves=None,
+              min_child_weight=None, missing=nan, monotone_constraints=None,
+              multi_strategy=None, n_estimators=None, n_jobs=None, num_class=2,
+              num_parallel_tree=None, ...)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.4121360800025286
+Avg. Test Time: 0.003093660001468379
+---------------------------------------
+as7.csv
+Model: LGBMClassifier(num_leaves=15, random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.10625698000076227
+Avg. Test Time: 0.0034656400021049194
+---------------------------------------
+as7.csv
+Model: SVC()
+Avg. Accuracy: 0.999337165978759
+Avg. Precision: 0.0
+Avg. Recall: 0.0
+Avg. F1: 0.0
+Avg. Training Time: 3.912101540000003
+Avg. Test Time: 1.7633867800002918
+---------------------------------------
+
+as8.csv
+Number of Zeros:429690 - Number Of Ones:276 - Total Number:429966
+---------------------------------------
+as8.csv
+Model: KNeighborsClassifier()
+Avg. Accuracy: 0.9999372039746678
+Avg. Precision: 0.9774801613480859
+Avg. Recall: 0.9256945256185467
+Avg. F1: 0.9500493341628271
+Avg. Training Time: 0.41915545999800086
+Avg. Test Time: 3.6998268800016376
+---------------------------------------
+as8.csv
+Model: DecisionTreeClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.2086142200016184
+Avg. Test Time: 0.0024405199990724215
+---------------------------------------
+as8.csv
+Model: RandomForestClassifier(random_state=42)
+Avg. Accuracy: 0.9999953484585955
+Avg. Precision: 1.0
+Avg. Recall: 0.9932203389830508
+Avg. F1: 0.9965517241379309
+Avg. Training Time: 4.256614360000822
+Avg. Test Time: 0.16521188000042458
+---------------------------------------
+as8.csv
+Model: XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=None, device=None, early_stopping_rounds=None,
+              enable_categorical=False, eval_metric=None, feature_types=None,
+              gamma=None, grow_policy=None, importance_type=None,
+              interaction_constraints=None, learning_rate=None, max_bin=None,
+              max_cat_threshold=None, max_cat_to_onehot=None,
+              max_delta_step=None, max_depth=None, max_leaves=None,
+              min_child_weight=None, missing=nan, monotone_constraints=None,
+              multi_strategy=None, n_estimators=None, n_jobs=None, num_class=2,
+              num_parallel_tree=None, ...)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.43701904000045033
+Avg. Test Time: 0.0034324000022024847
+---------------------------------------
+as8.csv
+Model: LGBMClassifier(num_leaves=15, random_state=42)
+Avg. Accuracy: 0.9998185878296997
+Avg. Precision: 0.8597014925373134
+Avg. Recall: 0.8748529920442752
+Avg. F1: 0.8655172413793103
+Avg. Training Time: 0.14146574000042164
+Avg. Test Time: 0.01011473999824375
+---------------------------------------
+as8.csv
+Model: SVC()
+Avg. Accuracy: 0.9993580846085847
+Avg. Precision: 0.0
+Avg. Recall: 0.0
+Avg. F1: 0.0
+Avg. Training Time: 3.0685742800022124
+Avg. Test Time: 1.6271437199990033
+---------------------------------------
+
+as9.csv
+Number of Zeros:429825 - Number Of Ones:144 - Total Number:429969
+---------------------------------------
+as9.csv
+Model: KNeighborsClassifier()
+Avg. Accuracy: 0.9999279012705042
+Avg. Precision: 0.9548076923076924
+Avg. Recall: 0.8128179271708683
+Avg. F1: 0.8769343075794689
+Avg. Training Time: 0.4195571999982349
+Avg. Test Time: 3.6637023200004477
+---------------------------------------
+as9.csv
+Model: DecisionTreeClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.08052461999905063
+Avg. Test Time: 0.002413859999796841
+---------------------------------------
+as9.csv
+Model: RandomForestClassifier(random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 3.9354164000003946
+Avg. Test Time: 0.16170497999846703
+---------------------------------------
+as9.csv
+Model: XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=None, device=None, early_stopping_rounds=None,
+              enable_categorical=False, eval_metric=None, feature_types=None,
+              gamma=None, grow_policy=None, importance_type=None,
+              interaction_constraints=None, learning_rate=None, max_bin=None,
+              max_cat_threshold=None, max_cat_to_onehot=None,
+              max_delta_step=None, max_depth=None, max_leaves=None,
+              min_child_weight=None, missing=nan, monotone_constraints=None,
+              multi_strategy=None, n_estimators=None, n_jobs=None, num_class=2,
+              num_parallel_tree=None, ...)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.4087178199988557
+Avg. Test Time: 0.003593280001950916
+---------------------------------------
+as9.csv
+Model: LGBMClassifier(num_leaves=15, random_state=42)
+Avg. Accuracy: 1.0
+Avg. Precision: 1.0
+Avg. Recall: 1.0
+Avg. F1: 1.0
+Avg. Training Time: 0.11491592000093079
+Avg. Test Time: 0.006667179998476058
+---------------------------------------
+as9.csv
+Model: SVC()
+Avg. Accuracy: 0.9996650899384285
+Avg. Precision: 0.0
+Avg. Recall: 0.0
+Avg. F1: 0.0
+Avg. Training Time: 3.162500899999577
+Avg. Test Time: 1.3700060800008942
+---------------------------------------
