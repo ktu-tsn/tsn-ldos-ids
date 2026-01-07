@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this software or dataset, please cite the following article."
+title: "TSN-LDoS-IDS: Machine Learning-Based Intrusion Detection for Low-Rate DoS Attacks in IEEE 802.1 Time-Sensitive Networking"
+type: software
+
+authors:
+  - family-names: "Topsakal"
+    given-names: "Mustafa"
+  - family-names: "Cevher"
+    given-names: "Selçuk"
+  - family-names: "Ergenç"
+    given-names: "Doğanalp"
+
+repository-code: "https://github.com/ktu-tsn/tsn-ldos-ids"
+url: "https://github.com/ktu-tsn/tsn-ldos-ids"
+
+preferred-citation:
+  type: article
+  title: "A Machine Learning-Based Intrusion Detection Framework with Labeled Dataset Generation for IEEE 802.1 Time-Sensitive Networking"
+  authors:
+    - family-names: "Topsakal"
+      given-names: "Mustafa"
+    - family-names: "Cevher"
+      given-names: "Selçuk"
+    - family-names: "Ergenç"
+      given-names: "Doğanalp"
+  journal: "Journal of Systems Architecture"
+  volume: 164
+  pages: "103408"
+  year: 2025
+  issn: "1383-7621"
+  doi: "10.1016/j.sysarc.2025.103408"
+  url: "https://www.sciencedirect.com/science/article/pii/S1383762125000803"
+
+keywords:
+  - "Time-Sensitive Networking"
+  - "TSN"
+  - "Intrusion Detection System"
+  - "Machine Learning"
+  - "Low-Rate DoS"
+  - "LDoS"
+
+license: "MIT"

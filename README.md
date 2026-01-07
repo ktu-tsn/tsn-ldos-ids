@@ -175,14 +175,10 @@ python main.py
 
 ## Citation
 
-@article{topsakal2025machine,
-    abstract = {IEEE 802.1 Time-Sensitive Networking (TSN) technology has been increasingly embraced in mission-critical systems to establish deterministic communication with bounded latency. Since safety and security are of prime importance in such systems, the protection of TSN protocols has also been elevated to one of the highest priorities. In this work, we present a machine learning (ML)-based intrusion detection framework against low-rate denial of service (LDoS) attacks on TSN-based platforms. In LDoS attacks, the message period of victim streams are subtly manipulated, that makes their detection more challenging. Addressing this challenge, we evaluate and compare several ML algorithms within our framework in terms of their attack detection performance and computational cost. We also explore two different mitigation strategies to alleviate the effects of data imbalance, which is imposed by the nature of LDoS. To the best of our knowledge, our work is the first in the literature by presenting an ML-based intrusion detection framework and a TSN dataset that contains simulated LDoS attacks targeting a TSN-based in-vehicle network.},
-    author = {Topsakal, Mustafa and Cevher, Sel{\c{c}}uk and Ergen{\c{c}}, Do{\u{g}}analp},
-    doi = {10.1016/j.sysarc.2025.103408},
-    note = {to appear},
-    title = {{A Machine Learning-based Intrusion Detection Framework with Labeled Dataset Generation for IEEE 802.1 Time-sensitive Networking}},
-    pages = {103408},
-    journal = {Journal of Systems Architecture},
-    publisher = {Elsevier},
-    year = {2025}
-}
+If you use this repository or the accompanying dataset in academic work, please cite the following article.  
+A ready-to-use citation file is provided in [`CITATION.cff`](CITATION.cff).
+
+**Topsakal, M., Cevher, S., & Ergenç, D.**  
+A Machine Learning-Based Intrusion Detection Framework with Labeled Dataset Generation for IEEE 802.1 Time-Sensitive Networking.  
+*Journal of Systems Architecture*, 2025.  
+https://doi.org/10.1016/j.sysarc.2025.103408
