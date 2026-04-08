@@ -175,14 +175,22 @@ python main.py
 
 ## Citation
 
+If you use this repository or the accompanying dataset in academic work, please cite:
+
+```bibtex
 @article{topsakal2025machine,
-    abstract = {IEEE 802.1 Time-Sensitive Networking (TSN) technology has been increasingly embraced in mission-critical systems to establish deterministic communication with bounded latency. Since safety and security are of prime importance in such systems, the protection of TSN protocols has also been elevated to one of the highest priorities. In this work, we present a machine learning (ML)-based intrusion detection framework against low-rate denial of service (LDoS) attacks on TSN-based platforms. In LDoS attacks, the message period of victim streams are subtly manipulated, that makes their detection more challenging. Addressing this challenge, we evaluate and compare several ML algorithms within our framework in terms of their attack detection performance and computational cost. We also explore two different mitigation strategies to alleviate the effects of data imbalance, which is imposed by the nature of LDoS. To the best of our knowledge, our work is the first in the literature by presenting an ML-based intrusion detection framework and a TSN dataset that contains simulated LDoS attacks targeting a TSN-based in-vehicle network.},
-    author = {Topsakal, Mustafa and Cevher, Sel{\c{c}}uk and Ergen{\c{c}}, Do{\u{g}}analp},
-    doi = {10.1016/j.sysarc.2025.103408},
-    note = {to appear},
-    title = {{A Machine Learning-based Intrusion Detection Framework with Labeled Dataset Generation for IEEE 802.1 Time-sensitive Networking}},
-    pages = {103408},
-    journal = {Journal of Systems Architecture},
-    publisher = {Elsevier},
-    year = {2025}
+  author    = {Topsakal, Mustafa and Cevher, Sel{\c{c}}uk and Ergen{\c{c}}, Do{\u{g}}analp},
+  title     = {{A Machine Learning-based Intrusion Detection Framework with Labeled Dataset Generation for IEEE 802.1 Time-Sensitive Networking}},
+  journal   = {Journal of Systems Architecture},
+  volume    = {164},
+  pages     = {103408},
+  year      = {2025},
+  month     = jul,
+  publisher = {Elsevier},
+  doi       = {10.1016/j.sysarc.2025.103408}
 }
+```
+
+## License
+
+This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
